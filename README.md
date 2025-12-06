@@ -13,6 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPatil7517&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+ <a href="https://cloud.layer5.io/user/51e9857a-bf3c-4fee-a4ca-bb3edbe59579?tab=badges&badge=certified-meshery-contributor">
+    <img width="250px" height="360px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor"/>
+  </a>
 ![](https://github-profile-trophy.vercel.app/?username=GaneshPatil7517&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
