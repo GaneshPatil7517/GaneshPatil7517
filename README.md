@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd-year CSE student at Pimpri Chinchwad University<br>💻 Passionate about MERN stack development, C++, and Python<br>📚 Learning Google Cloud through Google Cloud Skills Boost<br>🎯 Aiming to become a SDE or SWE<br>📚 Love building real-world projects and exploring DevOps, Docker, and Kubernetes<br>💻 Google Developer Relations
+🎓 2nd-year CSE student at Pimpri Chinchwad University<br>💻 Passionate about MERN stack development, C++, and Python<br>📚 Learning Google Cloud through Google Cloud Skills Boost<br>🎯 Aiming to become a SDE or SWE<br>📚 Love building real-world projects and exploring DevOps, Docker, and Kubernetes<br>💻 Google Developer Relations & Microsoft Student Developer Community.
 
 
 ## 🌐 Socials:
